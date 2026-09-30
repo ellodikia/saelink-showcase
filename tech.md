@@ -33,7 +33,7 @@ Sae Link menerapkan arsitektur *Decoupled* (terpisah) modern dengan membagi sist
 │                  BACKEND (REST API)                      │
 │  • Laravel 13.x Framework (PHP 8.3+)                     │
 │  • Laravel Sanctum 4.x + Socialite 5.x                   │
-│  • Intervention Image 4.3 + Midtrans SDK 2.6             │
+│  • Intervention Image 4.3            │
 │  • Google Sheets Service + SSRF Protection               │
 │  • Superadmin Panel (Blade Views & Auth)                 │
 └──────────────┬────────────────────────────▲──────────────┘
@@ -174,7 +174,6 @@ Backend Sae Link dirancang untuk keandalan tinggi, pemrosesan transaksi yang ama
 | **Laravel Socialite** | 5.31+ | Autentikasi OAuth | Integrasi login pihak ketiga menggunakan Google OAuth 2.0 |
 | **Eloquent ORM** | Bawaan Laravel | Object-Relational Mapper | Pemodelan data relasional, query builder, validasi model, tipe kolom JSON |
 | **Intervention Image** | 4.3+ | Pengolahan Citra | Kompresi citra otomatis, cropping, dan konversi WebP modern |
-| **Midtrans PHP SDK** | 2.6+ | Gateway Pembayaran | Integrasi pembayaran otomatis (Snap popup, VA, e-wallet, webhook signature) |
 | **PragmaRX Google2FA** | 9.1+ | Keamanan Akun | Autentikasi dua faktor berbasis Time-based One-Time Password (TOTP) |
 | **Blade View Engine** | Bawaan Laravel | Templating Server-Side | Antarmuka panel administrasi internal Superadmin yang terisolasi |
 | **Laravel Queue & Job** | Bawaan Laravel | Background Worker | Eksekusi asinkron pengiriman email OTP, log audit, dan webhook pihak ketiga |
