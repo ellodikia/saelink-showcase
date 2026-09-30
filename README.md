@@ -2,7 +2,6 @@
 
 <div align="center">
 
-![Sae Link Banner](./ss.jpeg)
 
 **Sae Link** adalah platform *all-in-one bio-link & microsite builder* berkecepatan tinggi yang dirancang untuk kreator, profesional, dan UMKM. Memungkinkan pembuatan halaman profil digital yang memukau, responsif, dan interaktif dengan *Live Smartphone Builder*, analitik mendalam, integrasi domain kustom, serta sistem transaksi & voucher.
 
